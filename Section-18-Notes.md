@@ -1,0 +1,4 @@
+- [ ] Section 18: User Roles and Permissions 3/3 | 54min
+  - [ ] 82. User Roles and Permissions 20min
+  - [ ] 83. Open Registration 20min
+  - [ ] 84. Open Registration (Part 2) 14min
