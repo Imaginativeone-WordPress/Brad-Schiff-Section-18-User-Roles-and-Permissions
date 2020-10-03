@@ -7,6 +7,11 @@
       - [ ] Coworker that will help
       - [ ] Each person has an account
       - [ ] Users > Add New
-        - [ ] Kitty Doe 18:00
+        - [ ] Kitty-Doe, Remaining Time: 18:00-15:05
+          - [ ] 15:40 Kitty-Doe is set with the Editor Role
+      - [ ] Incognito Login 15:05
+    - [ ] Access to all Post Types
+    - [ ] 13:55 Limit access to all Post Types
+      - [ ] 13:47 Limit Access to Event Posts
   - [ ] 83. Open Registration 20min
   - [ ] 84. Open Registration (Part 2) 14min
