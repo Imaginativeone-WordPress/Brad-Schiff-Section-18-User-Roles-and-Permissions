@@ -1,4 +1,12 @@
 - [ ] Section 18: User Roles and Permissions 3/3 | 54min
   - [ ] 82. User Roles and Permissions 20min
+    - [ ] Default Roles
+    - [ ] Custom Roles
+    - [ ] Larger Web Sites Require a Team Effort
+      - [ ] Too much content for one person to handle
+      - [ ] Coworker that will help
+      - [ ] Each person has an account
+      - [ ] Users > Add New
+        - [ ] Kitty Doe 18:00
   - [ ] 83. Open Registration 20min
   - [ ] 84. Open Registration (Part 2) 14min
