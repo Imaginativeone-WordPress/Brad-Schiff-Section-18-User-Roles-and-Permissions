@@ -38,5 +38,13 @@
           ```
           
           - The "Events" Capability will now appear in the Capabilities Listing
+          - Grant the Event Planner Role all of the Events Permissions
+          - Change Kitty-Doe from an Editor to an Event Planner
+          - Add some additional Events
+          - Make sure that the Administrator Role can see the Events
+          - Multiple Roles: Event Planner, Campus Manager
+    - [ ] Redirect from Profile Page
+    - [ ] Remove Dashboard
+    - [ ] Remove Top Line?
   - [ ] 83. Open Registration 20min
   - [ ] 84. Open Registration (Part 2) 14min
