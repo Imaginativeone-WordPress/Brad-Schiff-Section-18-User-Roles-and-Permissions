@@ -29,5 +29,14 @@
         - Edit the code where we registered the Event Post Type
           - mu-plugins/Custom-Post-Types/cpt-event.php
           - We want to tell the Event Post Type that it should not behave like a Blog Post when it comes to Permissions and Capabilities. Instead, it should require its own UNIQUE Permissions and Capabilities.
+          
+          ```php
+          ...
+          'capability_type' => 'event', // 'event' permissions, 'post' by default, see next line
+          'map_meta_cap'    => true,    // These two lines add 'Events' to the Members Plugin
+          ...
+          ```
+          
+          - The "Events" Capability will now appear in the Capabilities Listing
   - [ ] 83. Open Registration 20min
   - [ ] 84. Open Registration (Part 2) 14min
