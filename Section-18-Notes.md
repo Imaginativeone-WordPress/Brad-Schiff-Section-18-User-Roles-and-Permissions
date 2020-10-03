@@ -27,6 +27,7 @@
         - We don't see a tab for our Custom Post Types!
         - New CPTs are usually treated as Blog Posts
         - Edit the code where we registered the Event Post Type
-        
+          - mu-plugins/Custom-Post-Types/cpt-event.php
+          - We want to tell the Event Post Type that it should not behave like a Blog Post when it comes to Permissions and Capabilities. Instead, it should require its own UNIQUE Permissions and Capabilities.
   - [ ] 83. Open Registration 20min
   - [ ] 84. Open Registration (Part 2) 14min
