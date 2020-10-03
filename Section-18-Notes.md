@@ -12,6 +12,21 @@
       - [ ] Incognito Login 15:05
     - [ ] Access to all Post Types
     - [ ] 13:55 Limit access to all Post Types
-      - [ ] 13:47 Limit Access to Event Posts
+      - [ ] 13:47 Limit Access to Event Posts - How do I give them access to (only) that ONE Post Type?
+      - [ ] 13:28 We Can Create a New "Event Planner" Role...
+        - [ ] ...and only grant the exact permissions that we want.
+        - [ ] How do we create a new role?
+        - [ ] 13:05 Role-Creation Plugin (Free) >> "Members by MemberPress"
+        - [ ] **08:00/11:58 Let's create a new custom user role than only manage the Event Post Type**
+          - Members
+            - Roles
+            - Create a brand-new role
+            - Event Planner
+            - Checkboxes
+              - Posts, Pages
+        - We don't see a tab for our Custom Post Types!
+        - New CPTs are usually treated as Blog Posts
+        - Edit the code where we registered the Event Post Type
+        
   - [ ] 83. Open Registration 20min
   - [ ] 84. Open Registration (Part 2) 14min
