@@ -47,4 +47,14 @@
     - [ ] Remove Dashboard
     - [ ] Remove Top Line?
   - [ ] 83. Open Registration 20min
+    - Why are we Doing This?
+      - Permissions
+      - Security
+      - CRUD user-specific content
+      - 01:28 Open Registration
+        - Admin Dashboard
+        - Settings
+        - Membership
+        - Anyone can register
+        - New User Default Role: Subscriber
   - [ ] 84. Open Registration (Part 2) 14min
